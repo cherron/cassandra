@@ -1,3 +1,7 @@
+1.1.7+ (Patched By Apptegic Solely For CASSANDRA-5025)
+ * Improve schema propagation performance (CASSANDRA-5025)
+
+
 1.1.7
  * cqlsh: improve COPY FROM performance (CASSANDRA-4921)
  * add basic authentication support for Pig CassandraStorage (CASSANDRA-3042)
